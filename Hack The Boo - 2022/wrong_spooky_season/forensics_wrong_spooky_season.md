@@ -1,0 +1,6 @@
+
+![image](wss1.png)
+
+```text
+HTB{j4v4_5pr1ng_just_b3c4m3_j4v4_sp00ky!!}
+```
